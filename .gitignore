@@ -1,0 +1,5 @@
+.aws-sam
+.aws-sam-iacs
+.terraform
+build
+*/node_modules
